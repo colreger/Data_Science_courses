@@ -1,2 +1,17 @@
-# Data_Science_courses
- all the courses and projects in Data Science I did 
+# My learning progress in Data Science 
+
+Here I list all the courses on Data Science I have taken: 
+
+## DataCamp courses
+
+
+| #  | Course Name  |  Projects | Skills  | Progress  |
+|---|---|---|---|---|
+| 1 |   |   |   |   |
+| 2 |   |   |   |   |
+| 3 |   |   |   |   |
+
+
+## Bertelsmann Scholarship: 
+
+in progress
