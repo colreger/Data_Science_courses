@@ -54,3 +54,4 @@ in progress
 | 1 | SQL Fundamentals  |   |   |   |
 | 2 |  Joining Data in SQL |   |   |   |
 | 3 |  Intermediate SQL |   |   |   |
+| 4 |   |   |   |   |
